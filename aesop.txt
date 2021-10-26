@@ -1,0 +1,157 @@
+[
+  {
+    "business_id": "MiiGgMdr3XwoSCwB6NYxcQ",
+    "name": "Aesop's Bagels",
+    "address": "Boston University",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02215",
+    "latitude": 42.3504997,
+    "longitude": -71.1053991,
+    "stars": 3.5,
+    "review_count": 5,
+    "is_open": 1,
+    "attributes": {
+      "RestaurantsPriceRange2": "1",
+      "HasTV": "True"
+    },
+    "categories": "Delis, Bagels, Sandwiches, Restaurants, Food",
+    "hours": {
+      "Monday": "7:0-18:0",
+      "Tuesday": "7:0-18:0",
+      "Wednesday": "7:0-18:0",
+      "Thursday": "7:0-18:0",
+      "Friday": "7:0-18:0",
+      "Saturday": "7:0-18:0",
+      "Sunday": "7:0-18:0"
+    }
+  },
+  {
+    "business_id": "h7oB6ajdSh8trSTESb31Kw",
+    "name": "Aesop",
+    "address": "19 Water Street",
+    "city": "Vancouver",
+    "state": "BC",
+    "postal_code": "V6B 1A1",
+    "latitude": 49.2837978,
+    "longitude": -123.1047023,
+    "stars": 5.0,
+    "review_count": 9,
+    "is_open": 1,
+    "attributes": {
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+      "BikeParking": "True",
+      "ByAppointmentOnly": "False",
+      "RestaurantsPriceRange2": "3",
+      "BusinessAcceptsCreditCards": "True",
+      "RestaurantsTakeOut": "True",
+      "RestaurantsDelivery": "False"
+    },
+    "categories": "Skin Care, Beauty & Spas",
+    "hours": {
+      "Monday": "10:0-18:0",
+      "Tuesday": "10:0-18:0",
+      "Wednesday": "10:0-18:0",
+      "Thursday": "10:0-18:0",
+      "Friday": "10:0-18:0",
+      "Saturday": "10:0-18:0",
+      "Sunday": "11:0-18:0"
+    }
+  },
+  {
+    "business_id": "WB0lbSTum4OQe5m-zs38jA",
+    "name": "Aesop",
+    "address": "172 Newbury St",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.3503249645,
+    "longitude": -71.0789097,
+    "stars": 5.0,
+    "review_count": 23,
+    "is_open": 1,
+    "attributes": {
+      "RestaurantsPriceRange2": "3",
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+      "BikeParking": "True",
+      "ByAppointmentOnly": "False",
+      "BusinessAcceptsCreditCards": "True",
+      "RestaurantsTakeOut": "True",
+      "RestaurantsDelivery": "False"
+    },
+    "categories": "Cosmetics & Beauty Supply, Beauty & Spas, Shopping",
+    "hours": {
+      "Monday": "0:0-0:0",
+      "Tuesday": "11:0-19:0",
+      "Wednesday": "11:0-19:0",
+      "Thursday": "11:0-17:0",
+      "Friday": "11:0-19:0",
+      "Saturday": "11:0-19:0",
+      "Sunday": "11:0-18:0"
+    }
+  },
+  {
+    "business_id": "pBsOO7l3zwemKTWhwdprLA",
+    "name": "Aesop",
+    "address": "827 NW 23rd Ave",
+    "city": "Portland",
+    "state": "OR",
+    "postal_code": "97210",
+    "latitude": 45.5288118133,
+    "longitude": -122.698865686,
+    "stars": 4.5,
+    "review_count": 9,
+    "is_open": 1,
+    "attributes": {
+      "RestaurantsPriceRange2": "3",
+      "BusinessAcceptsCreditCards": "True",
+      "ByAppointmentOnly": "False",
+      "BikeParking": "True",
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+      "RestaurantsTakeOut": "True",
+      "RestaurantsDelivery": "False"
+    },
+    "categories": "Beauty & Spas, Shopping, Skin Care, Cosmetics & Beauty Supply",
+    "hours": {
+      "Monday": "11:0-19:0",
+      "Tuesday": "11:0-19:0",
+      "Wednesday": "11:0-19:0",
+      "Thursday": "11:0-19:0",
+      "Friday": "11:0-19:0",
+      "Saturday": "11:0-19:0",
+      "Sunday": "11:0-19:0"
+    }
+  },
+  {
+    "business_id": "934NZ5XBUVWSt_BWDS-HHw",
+    "name": "Aesop",
+    "address": "1300 W Burnside St",
+    "city": "Portland",
+    "state": "OR",
+    "postal_code": "97209",
+    "latitude": 45.522936,
+    "longitude": -122.684394,
+    "stars": 5.0,
+    "review_count": 12,
+    "is_open": 1,
+    "attributes": {
+      "RestaurantsPriceRange2": "3",
+      "BikeParking": "False",
+      "ByAppointmentOnly": "False",
+      "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+      "BusinessAcceptsCreditCards": "True",
+      "RestaurantsTakeOut": "True",
+      "RestaurantsDelivery": "False"
+    },
+    "categories": "Shopping, Beauty & Spas, Cosmetics & Beauty Supply",
+    "hours": {
+      "Monday": "0:0-0:0",
+      "Tuesday": "10:0-19:0",
+      "Wednesday": "10:0-19:0",
+      "Thursday": "9:0-17:0",
+      "Friday": "11:0-19:0",
+      "Saturday": "11:0-19:0",
+      "Sunday": "10:0-19:0"
+    }
+  }
+]

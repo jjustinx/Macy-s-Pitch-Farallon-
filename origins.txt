@@ -1,0 +1,150 @@
+[
+  {
+    "business_id": "WeZbfnGzQgvysFVknWcQxw",
+    "name": "Origins",
+    "address": "8 Brattle St",
+    "city": "Cambridge",
+    "state": "MA",
+    "postal_code": "02138",
+    "latitude": 42.3735773,
+    "longitude": -71.1198549,
+    "stars": 4.0,
+    "review_count": 46,
+    "is_open": 1,
+    "attributes": {
+      "ByAppointmentOnly": "False",
+      "BusinessAcceptsCreditCards": "True",
+      "RestaurantsPriceRange2": "2",
+      "BikeParking": "True",
+      "BusinessParking": "None"
+    },
+    "categories": "Beauty & Spas, Skin Care, Shopping, Cosmetics & Beauty Supply",
+    "hours": {
+      "Monday": "11:0-19:0",
+      "Tuesday": "11:0-19:0",
+      "Wednesday": "11:0-19:0",
+      "Thursday": "11:0-19:0",
+      "Friday": "11:0-19:0",
+      "Saturday": "11:0-19:0",
+      "Sunday": "12:0-18:0"
+    }
+  },
+  {
+    "business_id": "RxBoPu1GMQGXcJ24dhjgqw",
+    "name": "Origins",
+    "address": "1 Faneuil Hall Mrkt Pl",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02109",
+    "latitude": 42.359835,
+    "longitude": -71.053954,
+    "stars": 4.5,
+    "review_count": 5,
+    "is_open": 0,
+    "attributes": {
+      "ByAppointmentOnly": "False",
+      "RestaurantsPriceRange2": "2",
+      "BusinessAcceptsCreditCards": "True"
+    },
+    "categories": "Cosmetics & Beauty Supply, Beauty & Spas, Shopping",
+    "hours": {
+      "Monday": "10:0-21:0",
+      "Tuesday": "10:0-21:0",
+      "Wednesday": "10:0-21:0",
+      "Thursday": "10:0-21:0",
+      "Friday": "10:0-21:0",
+      "Saturday": "10:0-21:0",
+      "Sunday": "11:0-19:0"
+    }
+  },
+  {
+    "business_id": "-jdLL_vjpv7WNS7S8z8XJw",
+    "name": "Origins",
+    "address": "11401 Century Oaks Ter",
+    "city": "Austin",
+    "state": "TX",
+    "postal_code": "78758",
+    "latitude": 30.4007307673,
+    "longitude": -97.726383023,
+    "stars": 4.5,
+    "review_count": 5,
+    "is_open": 1,
+    "attributes": {
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+      "BusinessAcceptsCreditCards": "True",
+      "RestaurantsPriceRange2": "2",
+      "ByAppointmentOnly": "True",
+      "BikeParking": "True"
+    },
+    "categories": "Shopping, Cosmetics & Beauty Supply, Skin Care, Beauty & Spas",
+    "hours": {
+      "Monday": "10:0-21:0",
+      "Tuesday": "10:0-21:0",
+      "Wednesday": "10:0-21:0",
+      "Thursday": "10:0-21:0",
+      "Friday": "10:0-21:0",
+      "Saturday": "10:0-21:0",
+      "Sunday": "12:0-18:0"
+    }
+  },
+  {
+    "business_id": "DuAFhdEdO6f1EVEBr1lE8Q",
+    "name": "Origins",
+    "address": "4001 N Lamar Blvd",
+    "city": "Austin",
+    "state": "TX",
+    "postal_code": "78756",
+    "latitude": 30.3080856045,
+    "longitude": -97.7397245084,
+    "stars": 4.5,
+    "review_count": 17,
+    "is_open": 1,
+    "attributes": {
+      "ByAppointmentOnly": "False",
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+      "BusinessAcceptsCreditCards": "True",
+      "RestaurantsPriceRange2": "3",
+      "BikeParking": "True"
+    },
+    "categories": "Beauty & Spas, Skin Care, Cosmetics & Beauty Supply, Shopping",
+    "hours": {
+      "Monday": "10:0-19:0",
+      "Tuesday": "10:0-19:0",
+      "Wednesday": "10:0-19:0",
+      "Thursday": "10:0-19:0",
+      "Friday": "10:0-19:0",
+      "Saturday": "10:0-19:0",
+      "Sunday": "12:0-18:0"
+    }
+  },
+  {
+    "business_id": "Y5tjfuDTkSxdXTwtJX6svw",
+    "name": "Origins",
+    "address": "1245 Worcester St",
+    "city": "Natick",
+    "state": "MA",
+    "postal_code": "01760",
+    "latitude": 42.301326,
+    "longitude": -71.38329,
+    "stars": 3.0,
+    "review_count": 6,
+    "is_open": 1,
+    "attributes": {
+      "ByAppointmentOnly": "True",
+      "RestaurantsPriceRange2": "3",
+      "BusinessAcceptsCreditCards": "True",
+      "BusinessParking": "{'garage': True, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+      "BikeParking": "False"
+    },
+    "categories": "Cosmetics & Beauty Supply, Shopping, Beauty & Spas, Skin Care",
+    "hours": {
+      "Monday": "10:0-21:0",
+      "Tuesday": "10:0-21:0",
+      "Wednesday": "10:0-21:0",
+      "Thursday": "10:0-21:0",
+      "Friday": "10:0-21:0",
+      "Saturday": "10:0-21:0",
+      "Sunday": "12:0-18:0"
+    }
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "business_id": "JFEMKxZ5cQAvXT9gTNU1zQ",
+    "name": "Lush",
+    "address": "1500 Polaris Pkwy",
+    "city": "Columbus",
+    "state": "OH",
+    "postal_code": "43240",
+    "latitude": 40.145637,
+    "longitude": -82.982061,
+    "stars": 5.0,
+    "review_count": 16,
+    "is_open": 1,
+    "attributes": {
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+      "BusinessAcceptsCreditCards": "True",
+      "ByAppointmentOnly": "False",
+      "RestaurantsPriceRange2": "2"
+    },
+    "categories": "Cosmetics & Beauty Supply, Shopping, Beauty & Spas",
+    "hours": {
+      "Monday": "10:0-21:0",
+      "Tuesday": "10:0-21:0",
+      "Wednesday": "10:0-21:0",
+      "Thursday": "10:0-21:0",
+      "Friday": "10:0-21:30",
+      "Saturday": "10:0-21:30",
+      "Sunday": "12:0-18:0"
+    }
+  },
+  {
+    "business_id": "pvAb0NTi0pWtj9l4dl-JEA",
+    "name": "Lush",
+    "address": "12000 SE 82nd Ave",
+    "city": "Happy Valley",
+    "state": "OR",
+    "postal_code": "97086",
+    "latitude": 45.435938197,
+    "longitude": -122.5749597474,
+    "stars": 4.0,
+    "review_count": 21,
+    "is_open": 1,
+    "attributes": {
+      "RestaurantsPriceRange2": "2",
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+      "ByAppointmentOnly": "False",
+      "BusinessAcceptsCreditCards": "True",
+      "BikeParking": "True"
+    },
+    "categories": "Cosmetics & Beauty Supply, Beauty & Spas, Shopping",
+    "hours": {
+      "Monday": "10:0-21:0",
+      "Tuesday": "10:0-21:0",
+      "Wednesday": "10:0-21:0",
+      "Thursday": "10:0-21:0",
+      "Friday": "10:0-21:0",
+      "Saturday": "10:0-21:0",
+      "Sunday": "11:0-19:0"
+    }
+  },
+  {
+    "business_id": "NsSuyDfcNHv80_QS0XYKfw",
+    "name": "Lush",
+    "address": "3393 Peachtree Rd NE, Unit 3112b",
+    "city": "Atlanta",
+    "state": "GA",
+    "postal_code": "30326",
+    "latitude": 33.8474823636,
+    "longitude": -84.3628016069,
+    "stars": 4.0,
+    "review_count": 38,
+    "is_open": 1,
+    "attributes": {
+      "RestaurantsPriceRange2": "3",
+      "BusinessAcceptsCreditCards": "True",
+      "ByAppointmentOnly": "False",
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+      "BikeParking": "False"
+    },
+    "categories": "Beauty & Spas, Cosmetics & Beauty Supply, Shopping",
+    "hours": null
+  },
+  {
+    "business_id": "4p8gBKABIrZvPZmKENigVQ",
+    "name": "Lush",
+    "address": "708 NW 23rd Ave",
+    "city": "Portland",
+    "state": "OR",
+    "postal_code": "97210",
+    "latitude": 45.527876,
+    "longitude": -122.6983915,
+    "stars": 4.0,
+    "review_count": 131,
+    "is_open": 1,
+    "attributes": {
+      "BusinessAcceptsCreditCards": "True",
+      "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+      "RestaurantsPriceRange2": "2",
+      "ByAppointmentOnly": "False",
+      "BikeParking": "True",
+      "DogsAllowed": "False"
+    },
+    "categories": "Beauty & Spas, Cosmetics & Beauty Supply, Shopping, Skin Care",
+    "hours": {
+      "Monday": "10:0-20:0",
+      "Tuesday": "10:0-20:0",
+      "Wednesday": "10:0-20:0",
+      "Thursday": "10:0-20:0",
+      "Friday": "10:0-20:0",
+      "Saturday": "10:0-20:0",
+      "Sunday": "11:0-19:0"
+    }
+  },
+  {
+    "business_id": "r3iWHWK5jwKk0K70KFMvqg",
+    "name": "Lush",
+    "address": "210 Andover St",
+    "city": "Peabody",
+    "state": "MA",
+    "postal_code": "01960",
+    "latitude": 42.540372,
+    "longitude": -70.94447,
+    "stars": 4.0,
+    "review_count": 26,
+    "is_open": 1,
+    "attributes": {
+      "BusinessAcceptsCreditCards": "True",
+      "ByAppointmentOnly": "False",
+      "BusinessParking": "{'garage': True, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+      "RestaurantsPriceRange2": "2",
+      "BikeParking": "True"
+    },
+    "categories": "Shopping, Cosmetics & Beauty Supply, Beauty & Spas",
+    "hours": null
+  },
+  {
+    "business_id": "MiF7-pfRc9KqMomWXtk6OQ",
+    "name": "Lush",
+    "address": "8001 S Orange Blossom Trl, unit 494",
+    "city": "Orlando",
+    "state": "FL",
+    "postal_code": "32809",
+    "latitude": 28.446007,
+    "longitude": -81.395338,
+    "stars": 4.5,
+    "review_count": 47,
+    "is_open": 1,
+    "attributes": {
+      "ByAppointmentOnly": "False",
+      "BikeParking": "False",
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+      "RestaurantsPriceRange2": "2",
+      "BusinessAcceptsCreditCards": "True"
+    },
+    "categories": "Shopping, Beauty & Spas, Cosmetics & Beauty Supply",
+    "hours": {
+      "Monday": "11:0-19:0",
+      "Tuesday": "11:0-19:0",
+      "Wednesday": "11:0-19:0",
+      "Thursday": "11:0-19:0",
+      "Friday": "11:0-19:0",
+      "Saturday": "11:0-19:0",
+      "Sunday": "12:0-18:0"
+    }
+  },
+  {
+    "business_id": "2vAcs0gWr8xiRGfIwp0qAA",
+    "name": "Lush",
+    "address": "4200 Conroy Rd",
+    "city": "Orlando",
+    "state": "FL",
+    "postal_code": "32839",
+    "latitude": 28.485741,
+    "longitude": -81.431115,
+    "stars": 4.0,
+    "review_count": 26,
+    "is_open": 1,
+    "attributes": {
+      "BusinessAcceptsCreditCards": "True",
+      "RestaurantsPriceRange2": "2",
+      "BikeParking": "True",
+      "ByAppointmentOnly": "False",
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Shopping, Beauty & Spas, Cosmetics & Beauty Supply",
+    "hours": {
+      "Monday": "10:0-21:0",
+      "Tuesday": "10:0-21:0",
+      "Wednesday": "10:0-21:0",
+      "Thursday": "10:0-21:0",
+      "Friday": "10:0-21:0",
+      "Saturday": "10:0-21:0",
+      "Sunday": "11:0-19:0"
+    }
+  },
+  {
+    "business_id": "bYVgIoLWn0Ya8-K4ERoI4Q",
+    "name": "Lush",
+    "address": "30 Jfk St",
+    "city": "Cambridge",
+    "state": "MA",
+    "postal_code": "02138",
+    "latitude": 42.3727292,
+    "longitude": -71.1196692,
+    "stars": 4.0,
+    "review_count": 142,
+    "is_open": 0,
+    "attributes": {
+      "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+      "BikeParking": "True",
+      "ByAppointmentOnly": "False",
+      "RestaurantsPriceRange2": "3",
+      "BusinessAcceptsCreditCards": "True"
+    },
+    "categories": "Cosmetics & Beauty Supply, Shopping, Beauty & Spas",
+    "hours": {
+      "Monday": "10:0-20:0",
+      "Tuesday": "10:0-20:0",
+      "Wednesday": "10:0-20:0",
+      "Thursday": "10:0-20:0",
+      "Friday": "10:0-20:0",
+      "Saturday": "10:0-20:0",
+      "Sunday": "11:0-20:0"
+    }
+  },
+  {
+    "business_id": "3ZK8apPMerDMWlD6ohQRKA",
+    "name": "Lush",
+    "address": "9585 SW Washington Sq Rd",
+    "city": "Tigard",
+    "state": "OR",
+    "postal_code": "97223",
+    "latitude": 45.450359,
+    "longitude": -122.780954,
+    "stars": 4.0,
+    "review_count": 64,
+    "is_open": 1,
+    "attributes": {
+      "BikeParking": "True",
+      "BusinessAcceptsCreditCards": "True",
+      "BusinessParking": "{'garage': True, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+      "ByAppointmentOnly": "False",
+      "RestaurantsPriceRange2": "2"
+    },
+    "categories": "Cosmetics & Beauty Supply, Shopping, Beauty & Spas",
+    "hours": null
+  },
+  {
+    "business_id": "FXY84Ll1tbN_T1y8AcN-lQ",
+    "name": "Lush",
+    "address": "2929 Barnett Hwy",
+    "city": "Coquitlam",
+    "state": "BC",
+    "postal_code": "V3K 3N7",
+    "latitude": 49.279623,
+    "longitude": -122.798611,
+    "stars": 3.5,
+    "review_count": 6,
+    "is_open": 1,
+    "attributes": {
+      "ByAppointmentOnly": "False",
+      "BikeParking": "True",
+      "RestaurantsPriceRange2": "3",
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}"
+    },
+    "categories": "Cosmetics & Beauty Supply, Shopping, Beauty & Spas",
+    "hours": {
+      "Monday": "10:0-18:0",
+      "Tuesday": "10:0-18:0",
+      "Wednesday": "10:0-21:0",
+      "Thursday": "10:0-21:0",
+      "Friday": "10:0-21:0",
+      "Saturday": "10:0-18:0",
+      "Sunday": "10:0-18:0"
+    }
+  },
+  {
+    "business_id": "ZpMTJxXE1NLgxjKIIIlGFQ",
+    "name": "Lush",
+    "address": "166 Newbury St",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.3504815,
+    "longitude": -71.0786816,
+    "stars": 4.0,
+    "review_count": 167,
+    "is_open": 0,
+    "attributes": {
+      "ByAppointmentOnly": "False",
+      "BusinessAcceptsCreditCards": "True",
+      "BikeParking": "True",
+      "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+      "RestaurantsPriceRange2": "2"
+    },
+    "categories": "Beauty & Spas, Shopping, Cosmetics & Beauty Supply",
+    "hours": {
+      "Monday": "10:0-20:0",
+      "Tuesday": "10:0-20:0",
+      "Wednesday": "10:0-20:0",
+      "Thursday": "10:0-20:0",
+      "Friday": "10:0-20:0",
+      "Saturday": "10:0-20:0",
+      "Sunday": "11:0-18:0"
+    }
+  }
+]

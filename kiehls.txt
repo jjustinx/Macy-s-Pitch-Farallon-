@@ -1,0 +1,242 @@
+[
+  {
+    "business_id": "A6dK2FYZBJAjSybBcUZZ-g",
+    "name": "Kiehl's",
+    "address": "4700 Kingsway, Suite 1131",
+    "city": "Burnaby",
+    "state": "BC",
+    "postal_code": "V5H 4M1",
+    "latitude": 49.228203,
+    "longitude": -122.999276,
+    "stars": 2.5,
+    "review_count": 7,
+    "is_open": 1,
+    "attributes": {
+      "RestaurantsPriceRange2": "2",
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+      "ByAppointmentOnly": "False"
+    },
+    "categories": "Cosmetics & Beauty Supply, Beauty & Spas, Shopping",
+    "hours": null
+  },
+  {
+    "business_id": "RdkpWRPxFImk9qb2CF0dAQ",
+    "name": "Kiehl's",
+    "address": "7000 NE Airport Way",
+    "city": "Portland",
+    "state": "OR",
+    "postal_code": "97218",
+    "latitude": 45.5883126209,
+    "longitude": -122.5945354612,
+    "stars": 3.5,
+    "review_count": 16,
+    "is_open": 1,
+    "attributes": {
+      "BikeParking": "False",
+      "BusinessAcceptsCreditCards": "True",
+      "BusinessParking": "{'garage': True, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+      "ByAppointmentOnly": "False",
+      "RestaurantsPriceRange2": "2",
+      "BusinessAcceptsBitcoin": "False",
+      "WiFi": "u'free'",
+      "DogsAllowed": "True",
+      "WheelchairAccessible": "True"
+    },
+    "categories": "Skin Care, Beauty & Spas, Cosmetics & Beauty Supply, Shopping",
+    "hours": {
+      "Monday": "6:0-18:0",
+      "Tuesday": "6:0-18:0",
+      "Wednesday": "6:0-18:0",
+      "Thursday": "6:0-18:0",
+      "Friday": "6:0-18:0",
+      "Saturday": "6:0-18:0",
+      "Sunday": "6:0-18:0"
+    }
+  },
+  {
+    "business_id": "51FnhtTytBw2rrwqT-s2lw",
+    "name": "Kiehl's Since 1851",
+    "address": "712 NW 23rd Ave",
+    "city": "Portland",
+    "state": "OR",
+    "postal_code": "97210",
+    "latitude": 45.5279905,
+    "longitude": -122.6983845,
+    "stars": 4.5,
+    "review_count": 30,
+    "is_open": 1,
+    "attributes": {
+      "BusinessAcceptsCreditCards": "True",
+      "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+      "ByAppointmentOnly": "False",
+      "RestaurantsPriceRange2": "3",
+      "BikeParking": "True"
+    },
+    "categories": "Shopping, Cosmetics & Beauty Supply, Skin Care, Beauty & Spas",
+    "hours": {
+      "Monday": "11:0-17:0",
+      "Tuesday": "11:0-17:0",
+      "Wednesday": "11:0-17:0",
+      "Thursday": "11:0-17:0",
+      "Friday": "11:0-17:0",
+      "Saturday": "11:0-17:0",
+      "Sunday": "11:0-17:0"
+    }
+  },
+  {
+    "business_id": "zYpKZoMtQJKiDH9ZnVlpWw",
+    "name": "Kiehl's Store",
+    "address": "11700 Domain Blvd",
+    "city": "Austin",
+    "state": "TX",
+    "postal_code": "78758",
+    "latitude": 30.4030084,
+    "longitude": -97.7209377,
+    "stars": 2.5,
+    "review_count": 8,
+    "is_open": 1,
+    "attributes": {
+      "ByAppointmentOnly": "False",
+      "RestaurantsPriceRange2": "2"
+    },
+    "categories": "Beauty & Spas, Skin Care",
+    "hours": null
+  },
+  {
+    "business_id": "Hot0zTt15KHhd9f8Tw0xug",
+    "name": "Kiehl's Since 1851",
+    "address": "75 Middlesex Turnpike, STE 2205",
+    "city": "Burlington",
+    "state": "MA",
+    "postal_code": "01803",
+    "latitude": 42.482246,
+    "longitude": -71.214029,
+    "stars": 5.0,
+    "review_count": 5,
+    "is_open": 1,
+    "attributes": {
+      "RestaurantsPriceRange2": "2",
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Shopping, Beauty & Spas, Skin Care, Cosmetics & Beauty Supply",
+    "hours": {
+      "Monday": "10:0-21:0",
+      "Tuesday": "10:0-21:0",
+      "Wednesday": "10:0-21:0",
+      "Thursday": "10:0-21:0",
+      "Friday": "10:0-21:0",
+      "Saturday": "10:0-21:0",
+      "Sunday": "11:0-18:0"
+    }
+  },
+  {
+    "business_id": "2Bwb2JDCndo_cuyjgcxwMw",
+    "name": "Kiehl's",
+    "address": "1021 Robson Street, Unit 100",
+    "city": "Vancouver",
+    "state": "BC",
+    "postal_code": "V6E 1A9",
+    "latitude": 49.283592,
+    "longitude": -123.123238,
+    "stars": 3.5,
+    "review_count": 23,
+    "is_open": 1,
+    "attributes": {
+      "RestaurantsPriceRange2": "3",
+      "ByAppointmentOnly": "False",
+      "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+      "BikeParking": "True"
+    },
+    "categories": "Beauty & Spas, Shopping, Cosmetics & Beauty Supply",
+    "hours": null
+  },
+  {
+    "business_id": "7OakpFEYe_9D9iLEvrX2ow",
+    "name": "Kiehl's Since 1851",
+    "address": "3393 Peachtree Rd NE, Ste 3008",
+    "city": "Atlanta",
+    "state": "GA",
+    "postal_code": "30326",
+    "latitude": 33.846573,
+    "longitude": -84.362518,
+    "stars": 3.5,
+    "review_count": 16,
+    "is_open": 1,
+    "attributes": {
+      "BikeParking": "True",
+      "ByAppointmentOnly": "False",
+      "BusinessAcceptsCreditCards": "True",
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+      "RestaurantsPriceRange2": "3"
+    },
+    "categories": "Shopping, Skin Care, Cosmetics & Beauty Supply, Beauty & Spas",
+    "hours": {
+      "Monday": "10:0-21:0",
+      "Tuesday": "10:0-21:0",
+      "Wednesday": "10:0-21:0",
+      "Thursday": "10:0-21:0",
+      "Friday": "10:0-21:0",
+      "Saturday": "10:0-21:0",
+      "Sunday": "12:0-18:0"
+    }
+  },
+  {
+    "business_id": "xlG_UfnF7ZqUHfXKYERXww",
+    "name": "Kiehl's Since 1851",
+    "address": "112 Newbury St",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.3511818,
+    "longitude": -71.0757491,
+    "stars": 3.5,
+    "review_count": 47,
+    "is_open": 1,
+    "attributes": {
+      "RestaurantsPriceRange2": "2",
+      "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+      "ByAppointmentOnly": "False",
+      "BusinessAcceptsCreditCards": "True",
+      "BikeParking": "True"
+    },
+    "categories": "Cosmetics & Beauty Supply, Skin Care, Beauty & Spas, Shopping",
+    "hours": {
+      "Monday": "10:0-19:0",
+      "Tuesday": "10:0-19:0",
+      "Wednesday": "10:0-19:0",
+      "Thursday": "10:0-19:0",
+      "Friday": "10:0-19:0",
+      "Saturday": "10:0-19:0",
+      "Sunday": "12:0-18:0"
+    }
+  },
+  {
+    "business_id": "GcnH_FzXa75h2-ikQ6sVtw",
+    "name": "Kiehl's Since 1851",
+    "address": "199 Boylston St, Ste N217A",
+    "city": "Chestnut Hill",
+    "state": "MA",
+    "postal_code": "02467",
+    "latitude": 42.321247,
+    "longitude": -71.176147,
+    "stars": 2.5,
+    "review_count": 7,
+    "is_open": 1,
+    "attributes": {
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+      "ByAppointmentOnly": "False",
+      "RestaurantsPriceRange2": "3",
+      "BusinessAcceptsCreditCards": "True"
+    },
+    "categories": "Cosmetics & Beauty Supply, Skin Care, Shopping, Beauty & Spas",
+    "hours": {
+      "Monday": "10:0-21:0",
+      "Tuesday": "10:0-21:0",
+      "Wednesday": "10:0-21:0",
+      "Thursday": "10:0-21:0",
+      "Friday": "10:0-21:0",
+      "Saturday": "10:0-20:0",
+      "Sunday": "12:0-18:0"
+    }
+  }
+]

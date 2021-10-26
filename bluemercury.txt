@@ -1,0 +1,318 @@
+[
+  {
+    "business_id": "TYoZNsxkbx4UHDE9Paes9A",
+    "name": "Bluemercury",
+    "address": "102 Npark Ave",
+    "city": "Winter Park",
+    "state": "FL",
+    "postal_code": "32789",
+    "latitude": 28.5979505125,
+    "longitude": -81.3508609491,
+    "stars": 3.0,
+    "review_count": 5,
+    "is_open": 1,
+    "attributes": {
+      "RestaurantsPriceRange2": "2",
+      "BusinessAcceptsCreditCards": "True",
+      "ByAppointmentOnly": "False",
+      "BikeParking": "True",
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Skin Care, Makeup Artists, Cosmetics & Beauty Supply, Shopping, Day Spas, Beauty & Spas",
+    "hours": {
+      "Monday": "10:0-18:0",
+      "Tuesday": "10:0-18:0",
+      "Wednesday": "10:0-18:0",
+      "Thursday": "10:0-19:0",
+      "Friday": "10:0-19:0",
+      "Saturday": "10:0-19:0",
+      "Sunday": "12:0-18:0"
+    }
+  },
+  {
+    "business_id": "7V_Ds5Z7dWpSn1u3r7Jaow",
+    "name": "Bluemercury",
+    "address": "200 Linden St, Ste 200J",
+    "city": "Wellesley",
+    "state": "MA",
+    "postal_code": "02482",
+    "latitude": 42.3015673,
+    "longitude": -71.2915321,
+    "stars": 2.0,
+    "review_count": 5,
+    "is_open": 1,
+    "attributes": {
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Beauty & Spas, Day Spas, Cosmetics & Beauty Supply, Shopping",
+    "hours": {
+      "Monday": "10:0-21:0",
+      "Tuesday": "10:0-21:0",
+      "Wednesday": "10:0-21:0",
+      "Thursday": "10:0-21:0",
+      "Friday": "10:0-21:0",
+      "Saturday": "10:0-21:0",
+      "Sunday": "11:0-18:0"
+    }
+  },
+  {
+    "business_id": "RHLuhESfNA-UpJMKHiQv1g",
+    "name": "Bluemercury",
+    "address": "1245 Market St",
+    "city": "Lynnfield",
+    "state": "MA",
+    "postal_code": "01940",
+    "latitude": 42.515936,
+    "longitude": -71.0340409,
+    "stars": 4.0,
+    "review_count": 28,
+    "is_open": 1,
+    "attributes": {
+      "RestaurantsPriceRange2": "3",
+      "ByAppointmentOnly": "False",
+      "BusinessAcceptsCreditCards": "True",
+      "BikeParking": "True",
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Beauty & Spas, Cosmetics & Beauty Supply, Day Spas, Shopping",
+    "hours": {
+      "Monday": "10:0-21:0",
+      "Tuesday": "10:0-21:0",
+      "Wednesday": "10:0-21:0",
+      "Thursday": "10:0-21:0",
+      "Friday": "10:0-21:0",
+      "Saturday": "10:0-21:0",
+      "Sunday": "11:0-18:0"
+    }
+  },
+  {
+    "business_id": "rzX8nGeW-3uPeXU0a3BrAg",
+    "name": "Bluemercury",
+    "address": "105 Seaport Blvd",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02210",
+    "latitude": 42.351304,
+    "longitude": -71.044951,
+    "stars": 3.0,
+    "review_count": 11,
+    "is_open": 1,
+    "attributes": null,
+    "categories": "Day Spas, Shopping, Beauty & Spas, Cosmetics & Beauty Supply",
+    "hours": {
+      "Monday": "10:0-19:0",
+      "Tuesday": "10:0-19:0",
+      "Wednesday": "10:0-19:0",
+      "Thursday": "10:0-20:0",
+      "Friday": "10:0-20:0",
+      "Saturday": "10:0-20:0",
+      "Sunday": "11:0-18:0"
+    }
+  },
+  {
+    "business_id": "02cezR_xZ3KenKv_M7aSZA",
+    "name": "Bluemercury",
+    "address": "748 Legacy Pl",
+    "city": "Dedham",
+    "state": "MA",
+    "postal_code": "02026",
+    "latitude": 42.2306348966,
+    "longitude": -71.1770994712,
+    "stars": 5.0,
+    "review_count": 5,
+    "is_open": 1,
+    "attributes": {
+      "RestaurantsPriceRange2": "2"
+    },
+    "categories": "Day Spas, Beauty & Spas, Cosmetics & Beauty Supply, Shopping",
+    "hours": {
+      "Monday": "10:0-21:0",
+      "Tuesday": "10:0-21:0",
+      "Wednesday": "10:0-21:0",
+      "Thursday": "10:0-21:0",
+      "Friday": "10:0-21:0",
+      "Saturday": "10:0-21:0",
+      "Sunday": "11:0-18:0"
+    }
+  },
+  {
+    "business_id": "Cn8Nvd6q_Q7wcLcJjXV3hg",
+    "name": "Bluemercury",
+    "address": "160 Newbury St",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.3505421329,
+    "longitude": -71.078469449,
+    "stars": 4.5,
+    "review_count": 27,
+    "is_open": 1,
+    "attributes": {
+      "BusinessAcceptsBitcoin": "False",
+      "RestaurantsPriceRange2": "3",
+      "ByAppointmentOnly": "False",
+      "BusinessAcceptsCreditCards": "True",
+      "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+      "DogsAllowed": "True",
+      "WheelchairAccessible": "False",
+      "BikeParking": "False",
+      "WiFi": "u'no'"
+    },
+    "categories": "Cosmetics & Beauty Supply, Beauty & Spas, Day Spas, Makeup Artists, Skin Care, Shopping",
+    "hours": {
+      "Monday": "10:0-19:0",
+      "Tuesday": "10:0-19:0",
+      "Wednesday": "10:0-19:0",
+      "Thursday": "10:0-20:0",
+      "Friday": "10:0-20:0",
+      "Saturday": "10:0-20:0",
+      "Sunday": "11:0-18:0"
+    }
+  },
+  {
+    "business_id": "QDNl8swO8GNMCSFO-Z5-Jw",
+    "name": "Bluemercury",
+    "address": "92 Derby St",
+    "city": "Hingham",
+    "state": "MA",
+    "postal_code": "02043",
+    "latitude": 42.1785734,
+    "longitude": -70.9090742,
+    "stars": 2.5,
+    "review_count": 18,
+    "is_open": 1,
+    "attributes": {
+      "BusinessAcceptsCreditCards": "True",
+      "ByAppointmentOnly": "False",
+      "RestaurantsPriceRange2": "3"
+    },
+    "categories": "Shopping, Beauty & Spas, Cosmetics & Beauty Supply, Skin Care, Day Spas",
+    "hours": {
+      "Monday": "10:0-21:0",
+      "Tuesday": "10:0-21:0",
+      "Wednesday": "10:0-21:0",
+      "Thursday": "10:0-21:0",
+      "Friday": "10:0-21:0",
+      "Saturday": "10:0-21:0",
+      "Sunday": "11:0-18:0"
+    }
+  },
+  {
+    "business_id": "RlbSN9lETIiqqirZXuuAmw",
+    "name": "Bluemercury",
+    "address": "37 West Paces Ferry Rd",
+    "city": "Atlanta",
+    "state": "GA",
+    "postal_code": "30305",
+    "latitude": 33.8403319,
+    "longitude": -84.380858,
+    "stars": 3.5,
+    "review_count": 10,
+    "is_open": 1,
+    "attributes": {
+      "RestaurantsPriceRange2": "3",
+      "BikeParking": "True",
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+      "BusinessAcceptsCreditCards": "True"
+    },
+    "categories": "Day Spas, Cosmetics & Beauty Supply, Shopping, Skin Care, Beauty & Spas",
+    "hours": {
+      "Monday": "10:0-20:0",
+      "Tuesday": "10:0-20:0",
+      "Wednesday": "10:0-20:0",
+      "Thursday": "10:0-20:0",
+      "Friday": "10:0-20:0",
+      "Saturday": "10:0-20:0",
+      "Sunday": "11:0-18:0"
+    }
+  },
+  {
+    "business_id": "dnv1BlHwteI2Fo0jyHImTQ",
+    "name": "Bluemercury",
+    "address": "33 Boylston St, Ste 3343",
+    "city": "Chestnut Hill",
+    "state": "MA",
+    "postal_code": "02467",
+    "latitude": 42.331594,
+    "longitude": -71.118526,
+    "stars": 3.0,
+    "review_count": 13,
+    "is_open": 1,
+    "attributes": {
+      "RestaurantsPriceRange2": "2",
+      "ByAppointmentOnly": "False",
+      "BikeParking": "True",
+      "BusinessAcceptsCreditCards": "True"
+    },
+    "categories": "Skin Care, Cosmetics & Beauty Supply, Shopping, Massage, Beauty & Spas, Day Spas",
+    "hours": {
+      "Monday": "10:0-20:0",
+      "Tuesday": "10:0-20:0",
+      "Wednesday": "10:0-20:0",
+      "Thursday": "10:0-20:0",
+      "Friday": "10:0-20:0",
+      "Saturday": "10:0-20:0",
+      "Sunday": "11:0-18:0"
+    }
+  },
+  {
+    "business_id": "L2VVanCcIPpVGFlbwZSBFA",
+    "name": "Bluemercury",
+    "address": "1037 NW Couch St",
+    "city": "Portland",
+    "state": "OR",
+    "postal_code": "97209",
+    "latitude": 45.5238084,
+    "longitude": -122.6818551,
+    "stars": 4.5,
+    "review_count": 12,
+    "is_open": 1,
+    "attributes": {
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+      "ByAppointmentOnly": "False",
+      "BusinessAcceptsCreditCards": "True",
+      "RestaurantsPriceRange2": "2",
+      "BikeParking": "True"
+    },
+    "categories": "Day Spas, Beauty & Spas, Cosmetics & Beauty Supply, Shopping, Makeup Artists, Skin Care",
+    "hours": {
+      "Monday": "10:0-19:0",
+      "Tuesday": "10:0-19:0",
+      "Wednesday": "10:0-19:0",
+      "Thursday": "10:0-19:0",
+      "Friday": "10:0-19:0",
+      "Saturday": "10:0-19:0",
+      "Sunday": "11:0-18:0"
+    }
+  },
+  {
+    "business_id": "T2JDKuBHbQIZm_rTbGfuqA",
+    "name": "Bluemercury",
+    "address": "7291 SW Bridgeport Rd",
+    "city": "Portland",
+    "state": "OR",
+    "postal_code": "97224",
+    "latitude": 45.396567333,
+    "longitude": -122.7517568298,
+    "stars": 3.0,
+    "review_count": 16,
+    "is_open": 1,
+    "attributes": {
+      "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+      "ByAppointmentOnly": "False",
+      "BusinessAcceptsCreditCards": "True",
+      "RestaurantsPriceRange2": "2",
+      "BikeParking": "True"
+    },
+    "categories": "Makeup Artists, Shopping, Beauty & Spas, Cosmetics & Beauty Supply, Skin Care, Day Spas",
+    "hours": {
+      "Monday": "10:0-21:0",
+      "Tuesday": "10:0-21:0",
+      "Wednesday": "10:0-21:0",
+      "Thursday": "10:0-21:0",
+      "Friday": "10:0-21:0",
+      "Saturday": "10:0-21:0",
+      "Sunday": "11:0-18:0"
+    }
+  }
+]
